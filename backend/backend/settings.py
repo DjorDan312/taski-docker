@@ -11,7 +11,6 @@ DEBUG = True
 ALLOWED_HOSTS = ['localhost', '51.250.17.232', 'taski546.sytes.net']
 
 
-
 INSTALLED_APPS = [
     'api.apps.ApiConfig',
     'django.contrib.admin',
